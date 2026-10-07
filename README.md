@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,25:1d4ed8,60:38bdf8,100:93c5fd&text=ROMAN%20%2F%20FEKIJJ&fontColor=e0f2fe&fontSize=42&fontAlignY=36&desc=anime%20avatar%20%2B%20senior%20aura%20%2B%20blue%20energy&descAlignY=58" />
-
 # 🌊 hey, i'm roman
 
 ### `developer` · `visual creator` · `systems tinkerer`
@@ -10,7 +8,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fekijj&label=blue%20aura&color=2563eb&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/fekijj?style=for-the-badge&color=0ea5e9&labelColor=0f172a)
 ![Stars](https://img.shields.io/github/stars/fekijj?affiliations=OWNER&style=for-the-badge&color=38bdf8&labelColor=0f172a)
 
@@ -23,7 +20,6 @@
 ```yaml
 name: Roman
 alias: fekijj
-vibe: blue anime senior
 focus:
   - software
   - interfaces
@@ -87,7 +83,5 @@ status: building things that should probably be simpler
 <div align="center">
 
 ### 🩵 thanks for stopping by
-
-<sub>anime avatar soon™</sub>
 
 </div>
